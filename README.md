@@ -9,7 +9,7 @@
 [![Dependency Status](https://david-dm.org/coryhouse/react-slingshot.svg?style=flat-square)](https://david-dm.org/coryhouse/react-slingshot)
 [![Coverage Status](https://img.shields.io/coveralls/coryhouse/react-slingshot/master.svg?style=flat-square)](https://coveralls.io/github/coryhouse/react-slingshot?branch=master)
 
-A comprehensive starter kit for rapid application development using React.
+This will be the travel agent facing app for the new smart bidding system.
 
 Why Slingshot?
 
